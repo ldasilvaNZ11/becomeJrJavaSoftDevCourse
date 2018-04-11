@@ -109,13 +109,4 @@ class Student {
     public String toString() {
         return "[Your email is: " + email + "]" + "\n"+ "[Your userId is: " + userId + "]";
     }
-
 }
-
-//Questions for this Assignment
-
-//- Automatically create an email ID based on the name
-
-
-//- Methods: enroll(), pay(), checkBalance(), toString(), showCourses()
-//- Use encapsulation to set variables (phone, city, state)
