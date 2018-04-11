@@ -58,6 +58,7 @@ class Student {
 
     private String city;
 
+    // Student constructor
     public Student(String name, String ssn) {
         iD++;
         this.name = name;
